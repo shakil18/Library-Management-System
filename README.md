@@ -24,4 +24,4 @@ This project is about to deploy a JavaSE-based desktop application. The applicat
 
 **Azizul Hakim Shakil** - [@ShakilAzizul](https://twitter.com/ShakilAzizul) - azizulhakim.shakil18@gmail.com
 
-Project Link: [https://github.com/shakil18/Blood-Bank-Management-System](https://github.com/shakil18/Blood-Bank-Management-System)
+Project Link: [https://github.com/shakil18/Library-Management-System](https://github.com/shakil18/Blood-Bank-Management-System)
